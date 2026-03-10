@@ -1,0 +1,11 @@
+timestamp_seconds,battery_voltage,status,solar_condition
+0,3.48,LOW,indoor light
+300,3.51,LOW,shade
+600,3.63,LOW,partial sun
+900,3.74,NORMAL,full sun
+1200,3.89,NORMAL,full sun
+1500,4.03,NORMAL,full sun
+1800,4.14,NORMAL,full sun
+2100,4.16,FULL,full sun
+2400,4.10,NORMAL,partial sun
+2700,3.95,NORMAL,shade

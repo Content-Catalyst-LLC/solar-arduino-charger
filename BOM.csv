@@ -1,0 +1,14 @@
+Component,Example,Qty,Notes
+Arduino Nano,ATmega328P,1,Arduino Uno also acceptable
+Solar Panel,6V–9V photovoltaic panel,1,Choose panel compatible with charge module input
+18650 Battery,Li-ion 3.7V cell,1,Use quality protected cell where possible
+TP4056 Charging Module,With protection,1,Recommended for safe single-cell charging
+Boost Converter,5V DC output,1,Verify output before connecting loads
+USB Output Module,USB breakout or port,1,Optional depending on load design
+Resistor 1,100kΩ,1,Voltage divider upper resistor
+Resistor 2,100kΩ,1,Voltage divider lower resistor
+Breadboard,Standard,1,Optional depending on assembly method
+Jumper Wires,Male/Female,10,As needed
+LEDs,Status indicators,4,Optional
+Resistors for LEDs,220Ω,4,Optional
+Display,16x2 LCD or OLED,1,Optional
